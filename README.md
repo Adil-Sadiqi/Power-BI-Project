@@ -1,4 +1,4 @@
-Ecommerce Sale Dashboard 🛒
+**Ecommerce Sale Dashboard** 🛒
 
 A Power BI dashboard analyzing e-commerce orders — sales, profit, quantity, and customer/geography breakdowns — for a quick executive view of performance.
 
