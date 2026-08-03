@@ -1,9 +1,9 @@
-# Madhav Ecommerce Sale Dashboard 🛒
+Ecommerce Sale Dashboard 🛒
 
 A Power BI dashboard analyzing e-commerce orders — sales, profit, quantity, and customer/geography breakdowns — for a quick executive view of performance.
 
 ## Overview
-Report titled **"Madhav Ecommerce Sale Dashboard"**, showing revenue/profit trends, top states/customers, category performance, and payment mix.
+Report titled **"Ecommerce Sale Dashboard"**, showing revenue/profit trends, top states/customers, category performance, and payment mix.
 
 ## File
 - `project_1.pbix` — open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
